@@ -1,8 +1,10 @@
-이글은 Github 와 공식사이트에 나와있는 문서를 AppJS 개발자의 허가를 받아 번역 기재 되었습니다.
+이글은 Github 와 공식사이트에 나와있는 문서를 AppJS 개발자 Morteza Milani, Brandon Benvie의 허가를 받아 번역 기재 되었습니다.
+이곳에 올라오는 모든글은 제 [블로그](http://insanehong.kr) 에서도 보실수 있습니다.
+
 # AppJS
 *AppJS*는 *Node.js* 와 *Choromium* 을 사용하여 *Desktop Application* 을 개발할 수 있는 SDK 입니다. 
 
-AppJS 통하여  웹 사이트를 구축하는데 사용하는 동일한 라이브러이와 지식으로 Descktop 툴과 애플리케이션을 개발할 수 있습니다. 
+AppJS 통하여  웹 사이트를 구축하는데 사용하는 동일한 라이브러이와 지식으로 데스크탑용 툴과 애플리케이션을 개발할 수 있습니다. 
 
 AppJS 페키지는 다음의 요소를 담고 있습니다.
 * JS, HTML5, CSS, SVG, WebGL provided by Chromium
@@ -18,7 +20,12 @@ AppJS 페키지는 다음의 요소를 담고 있습니다.
 * 메일링 그룹 : [mailling list](https://groups.google.com/forum/#!forum/appjs-dev)
 * IRC: #appjs at irc.freenode.net
 
+# Why AppJS?
+AppJS는 간단하면서도 강력합니다. 
+
+
 ## Getting Started
+
 
 ## Code samples
 
